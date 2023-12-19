@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lj-D-coder
-- 👀 I’m interested in ... web application development
-- 🌱 I’m currently learning ... laravel 10 with vue(inertia js)
-- 💞️ I’m looking to collaborate on ... Larvel projects
+- 👀 I’m interested in ... web & Mobile application development
+- 🌱 I’m currently working as Freelancer. 
+- 💞️ I’m looking to collaborate on ... Node js, Flutter projects
 - 📫 How to reach me ... email me @ lj_1990@live.com
 
 <!---
