@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jake
-- 👀 I’m interested in ... web & Mobile application development
+- 👀 I’m web & Mobile application developer
 - 🌱 I’m currently working as Freelancer. 
-- 💞️ I’m looking to collaborate on ... Node js, Flutter projects
+- 💞️ I’m looking to collaborate on or Freelance ... React, React Native, Express Js , PHP Laravel, Wordpress
 - 📫 How to reach me ... email me @ lj_1990@live.com
 
 <!---
