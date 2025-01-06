@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jake
+- 👋 Hi, I’m Jagdis
 - 👀 I’m web & Mobile application developer
 - 🌱 I’m currently working as Freelancer. 
 - 💞️ I’m looking to collaborate on  React, React Native, Express Js , PHP Laravel, Wordpress or Freelance projects.
